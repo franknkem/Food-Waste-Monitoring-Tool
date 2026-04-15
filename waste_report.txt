@@ -1,0 +1,17 @@
+Food Waste Monitoring Report
+============================
+Total Waste: 13.80 kg
+
+Waste by Food Item:
+- Jollof Rice: 3.00 kg
+- Egusi Soup: 2.00 kg
+- Bread: 0.80 kg
+- Rice and Stew: 5.30 kg
+- Porridge Beans: 1.50 kg
+- Yam Porridge: 1.20 kg
+
+Waste by Reason:
+- Low turnout: 3.00 kg
+- Low preference: 4.70 kg
+- Excess supply: 3.60 kg
+- Large portions: 2.50 kg

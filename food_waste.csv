@@ -1,0 +1,8 @@
+date,meal_type,food_item,quantity_wasted_kg,reason,notes
+2026-01-29,Dinner,Jollof Rice,3.0,Low turnout,Impromptu social night activities and late dismissal
+2026-01-29,Lunch,Egusi Soup,2.0,Low preference,Too watery
+2026-01-29,Breakfast,Bread,0.8,Excess supply,Too much prepared
+2026-01-29,Lunch,Rice and Stew,2.5,Large portions,Serving size too big
+2026-01-30,Breakfast,Porridge Beans,1.5,Low preference,Too watery
+2026-01-30,Lunch,Yam Porridge,1.2,Low preference,People prefer rice
+2026-01-30,Dinner,Rice and Stew,2.8,Excess supply,Overestimation of turnout
